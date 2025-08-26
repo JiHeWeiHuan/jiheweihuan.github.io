@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jiheweihuan.github.io/</id>
+    <title>几何为欢的云站</title>
+    <updated>2025-08-26T09:20:36.061Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>几何为欢</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://jiheweihuan.github.io/"/>
+    <link rel="self" href="https://jiheweihuan.github.io/atom.xml"/>
+    <subtitle>GO BEYOND HORIZONS.</subtitle>
+    <logo>https://jiheweihuan.github.io/100.jpg</logo>
+    <icon>https://jiheweihuan.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
+    <entry>
+        <title type="html"><![CDATA[二分查找]]></title>
+        <id>https://jiheweihuan.github.io/posts/二分查找</id>
+        <link href="https://jiheweihuan.github.io/posts/二分查找"/>
+        <updated>2025-08-26T14:49:27.000Z</updated>
+        <content type="html"><![CDATA[<h2>二分查找（染色法）的主体</h2>
+<h3>区间含义：</h3>
+<p>[left,right]是未标记区间</p>
+<p>[0,left-1]是&lt;target区间，[right+1，len(nums)-1]是&gt;=target</p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/二分查找" target="_blank">https://jiheweihuan.github.io/posts/二分查找</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-26T07:41:39.536Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://jiheweihuan.github.io/posts/hello-valaxy</id>
+        <link href="https://jiheweihuan.github.io/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hello-valaxy" target="_blank">https://jiheweihuan.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://jiheweihuan.github.io/posts/hello-world</id>
+        <link href="https://jiheweihuan.github.io/posts/hello-world"/>
+        <updated>2025-08-26T08:12:28.904Z</updated>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check [documentation](<a href="https://hex">https://hex</a></p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hello-world" target="_blank">https://jiheweihuan.github.io/posts/hello-world</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>1985-10-26T08:15:00.000Z</published>
+    </entry>
+</feed>
