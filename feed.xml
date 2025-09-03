@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Tue, 26 Aug 2025 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 04:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -16,14 +16,28 @@
         <atom:link href="https://jiheweihuan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[二分查找]]></title>
-            <link>https://jiheweihuan.github.io/posts/二分查找</link>
-            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/二分查找</guid>
-            <pubDate>Tue, 26 Aug 2025 07:41:39 GMT</pubDate>
+            <link>https://jiheweihuan.github.io/posts/Binary Search</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/Binary Search</guid>
+            <pubDate>Wed, 03 Sep 2025 04:28:34 GMT</pubDate>
             <content:encoded><![CDATA[<h2>二分查找（染色法）的主体</h2>
 <h3>区间含义：</h3>
 <p>[left,right]是未标记区间</p>
 <p>[0,left-1]是&lt;target区间，[right+1，len(nums)-1]是&gt;=target</p>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/二分查找" target="_blank">https://jiheweihuan.github.io/posts/二分查找</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/Binary Search" target="_blank">https://jiheweihuan.github.io/posts/Binary Search</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[github push commands]]></title>
+            <link>https://jiheweihuan.github.io/posts/github push</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/github push</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>github push代码</h2>
+<h3>1.新建本地仓库</h3>
+<p>git init</p>
+<h3>2.将所有文件加入暂存区索引</h3>
+<p>git add .</p>
+<h3>3.与远程仓库建立连接</h3>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github push" target="_blank">https://jiheweihuan.github.io/posts/github push</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
@@ -37,6 +51,19 @@
 <h2>Usage</h2>
 <p>Modify `valaxy</p>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hello-valaxy" target="_blank">https://jiheweihuan.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[valaxy常用指令]]></title>
+            <link>https://jiheweihuan.github.io/posts/valaxy commom commands</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/valaxy commom commands</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>1.预览：pnpm dev</p>
+<p>2.构建：pnpm run build</p>
+<p>3.github上传：</p>
+<p>git commit -m &quot;提交说明&quot;</p>
+<p>git push -u origin</p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/valaxy commom commands" target="_blank">https://jiheweihuan.github.io/posts/valaxy commom commands</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
