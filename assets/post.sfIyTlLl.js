@@ -1,1 +1,0 @@
-import"./chunks/@vueuse/motion.DF4azTn3.js";import{a8 as o,a9 as t,aa as r,ab as a}from"./framework.Dnp8hot_.js";const c={};function n(s,_){const e=t("RouterView");return a(),r(e)}const i=o(c,[["render",n]]);export{i as default};

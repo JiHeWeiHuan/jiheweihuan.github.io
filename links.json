@@ -1,31 +1,8 @@
-[
-  {
-    "name": "云游君",
-    "url": "https://www.yunyoujun.cn",
-    "avatar": "https://www.yunyoujun.cn/images/avatar.png",
-    "desc": "一切都恰到好处",
-    "color": "#5b8c00"
-  },
-  {
-    "name": "Leonus",
-    "url": "https://blog.leonus.cn",
-    "avatar": "https://blog.leonus.cn/favicon.ico",
-    "desc": "Leonus 的博客",
-    "color": "#3eaf7c"
-  },
-  {
-    "name": "四毛",
-    "url": "https://simao.website",
-    "avatar": "https://simao.website/avatar.png",
-    "desc": "Simao 的个人空间",
-    "color": "#1890ff"
-  }
-{
-    "name": "cnily03",
-    "url": "https://www.yuque.com/cnily03?language=zh-cn",
-    "avatar": "https://cdn.nlark.com/yuque/0/2024/png/34555178/1710871451138-avatar/acd6317a-43ae-4e22-9783-4ab385e6151e.png?x-oss-process=image%2Fresize%2Cm_fill%2Cw_328%2Ch_328%2Fformat%2Cpng",
-    "desc": "cnily03 的语雀",
-    "color": "#66ccff"
-
-}
-]
+    {
+        "url": "https://baifei.xin",
+        "avatar": "https://imgpub.hhhhhy.kim/57/favicon.jpg",
+        "name": "BaiFei",
+        "blog": "-BaiFei Blog-",
+        "desc": "私はあなたが好きです",
+        "color": "#DDD"
+    }
