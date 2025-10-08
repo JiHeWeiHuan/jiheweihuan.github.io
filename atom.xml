@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiheweihuan.github.io/</id>
     <title>几何为欢的云站</title>
-    <updated>2025-09-03T04:30:54.913Z</updated>
+    <updated>2025-10-08T07:01:05.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>几何为欢</name>
@@ -12,30 +12,29 @@
     <link rel="alternate" href="https://jiheweihuan.github.io/"/>
     <link rel="self" href="https://jiheweihuan.github.io/atom.xml"/>
     <subtitle>GO BEYOND HORIZONS.</subtitle>
-    <logo>https://jiheweihuan.github.io/100.jpg</logo>
+    <logo>https://jiheweihuan.github.io/avatar.jpg</logo>
     <icon>https://jiheweihuan.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
     <entry>
-        <title type="html"><![CDATA[二分查找]]></title>
-        <id>https://jiheweihuan.github.io/posts/Binary Search</id>
-        <link href="https://jiheweihuan.github.io/posts/Binary Search"/>
-        <updated>2025-08-26T14:49:27.000Z</updated>
-        <content type="html"><![CDATA[<h2>二分查找（染色法）的主体</h2>
-<h3>区间含义：</h3>
-<p>[left,right]是未标记区间</p>
-<p>[0,left-1]是&lt;target区间，[right+1，len(nums)-1]是&gt;=target</p>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/Binary Search" target="_blank">https://jiheweihuan.github.io/posts/Binary Search</a> 阅读全文。</p>]]></content>
+        <title type="html"><![CDATA[iterator用法]]></title>
+        <id>https://jiheweihuan.github.io/posts/iterator_and_tuple</id>
+        <link href="https://jiheweihuan.github.io/posts/iterator_and_tuple"/>
+        <updated>2025-10-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>什么是 Iterator（迭代器）？</h3>
+<p><strong>核心思想：</strong><br>
+迭代器是一种设计模式，它提供了一种方法，**能够顺序访问一个聚合对象（如列表、容器）中的各个元素，而又不需要暴露该对象</p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/iterator_and_tuple" target="_blank">https://jiheweihuan.github.io/posts/iterator_and_tuple</a> 阅读全文。</p>]]></content>
         <author>
             <name>几何为欢</name>
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2025-09-03T04:28:34.901Z</published>
+        <published>2025-10-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[github push commands]]></title>
-        <id>https://jiheweihuan.github.io/posts/github push</id>
-        <link href="https://jiheweihuan.github.io/posts/github push"/>
+        <id>https://jiheweihuan.github.io/posts/github push代码</id>
+        <link href="https://jiheweihuan.github.io/posts/github push代码"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<h2>github push代码</h2>
 <h3>1.新建本地仓库</h3>
@@ -43,7 +42,7 @@
 <h3>2.将所有文件加入暂存区索引</h3>
 <p>git add .</p>
 <h3>3.与远程仓库建立连接</h3>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github push" target="_blank">https://jiheweihuan.github.io/posts/github push</a> 阅读全文。</p>]]></content>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github push代码" target="_blank">https://jiheweihuan.github.io/posts/github push代码</a> 阅读全文。</p>]]></content>
         <author>
             <name>几何为欢</name>
             <email>i@valaxy.site</email>
@@ -86,19 +85,5 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2022-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://jiheweihuan.github.io/posts/hello-world</id>
-        <link href="https://jiheweihuan.github.io/posts/hello-world"/>
-        <updated>2025-08-26T08:12:28.904Z</updated>
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check [documentation](<a href="https://hex">https://hex</a></p>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hello-world" target="_blank">https://jiheweihuan.github.io/posts/hello-world</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>几何为欢</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>1985-10-26T08:15:00.000Z</published>
     </entry>
 </feed>

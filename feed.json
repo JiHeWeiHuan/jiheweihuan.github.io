@@ -4,28 +4,28 @@
     "home_page_url": "https://jiheweihuan.github.io/",
     "feed_url": "https://jiheweihuan.github.io/feed.json",
     "description": "GO BEYOND HORIZONS.",
-    "icon": "https://jiheweihuan.github.io/100.jpg",
+    "icon": "https://jiheweihuan.github.io/avatar.jpg",
     "author": {
         "name": "几何为欢",
         "url": "https://valaxy.site"
     },
     "items": [
         {
-            "id": "https://jiheweihuan.github.io/posts/Binary Search",
-            "content_html": "<h2>二分查找（染色法）的主体</h2>\n<h3>区间含义：</h3>\n<p>[left,right]是未标记区间</p>\n<p>[0,left-1]是&lt;target区间，[right+1，len(nums)-1]是&gt;=target</p>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/Binary Search\" target=\"_blank\">https://jiheweihuan.github.io/posts/Binary Search</a> 阅读全文。</p>",
-            "url": "https://jiheweihuan.github.io/posts/Binary Search",
-            "title": "二分查找",
-            "date_modified": "2025-08-26T14:49:27.000Z",
-            "date_published": "2025-09-03T04:28:34.901Z",
+            "id": "https://jiheweihuan.github.io/posts/iterator_and_tuple",
+            "content_html": "<h3>什么是 Iterator（迭代器）？</h3>\n<p><strong>核心思想：</strong><br>\n迭代器是一种设计模式，它提供了一种方法，**能够顺序访问一个聚合对象（如列表、容器）中的各个元素，而又不需要暴露该对象</p>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/iterator_and_tuple\" target=\"_blank\">https://jiheweihuan.github.io/posts/iterator_and_tuple</a> 阅读全文。</p>",
+            "url": "https://jiheweihuan.github.io/posts/iterator_and_tuple",
+            "title": "iterator用法",
+            "date_modified": "2025-10-08T00:00:00.000Z",
+            "date_published": "2025-10-08T00:00:00.000Z",
             "author": {
                 "name": "几何为欢",
                 "url": "https://valaxy.site"
             }
         },
         {
-            "id": "https://jiheweihuan.github.io/posts/github push",
-            "content_html": "<h2>github push代码</h2>\n<h3>1.新建本地仓库</h3>\n<p>git init</p>\n<h3>2.将所有文件加入暂存区索引</h3>\n<p>git add .</p>\n<h3>3.与远程仓库建立连接</h3>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/github push\" target=\"_blank\">https://jiheweihuan.github.io/posts/github push</a> 阅读全文。</p>",
-            "url": "https://jiheweihuan.github.io/posts/github push",
+            "id": "https://jiheweihuan.github.io/posts/github push代码",
+            "content_html": "<h2>github push代码</h2>\n<h3>1.新建本地仓库</h3>\n<p>git init</p>\n<h3>2.将所有文件加入暂存区索引</h3>\n<p>git add .</p>\n<h3>3.与远程仓库建立连接</h3>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/github push代码\" target=\"_blank\">https://jiheweihuan.github.io/posts/github push代码</a> 阅读全文。</p>",
+            "url": "https://jiheweihuan.github.io/posts/github push代码",
             "title": "github push commands",
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",
@@ -53,18 +53,6 @@
             "title": "valaxy常用指令",
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",
-            "author": {
-                "name": "几何为欢",
-                "url": "https://valaxy.site"
-            }
-        },
-        {
-            "id": "https://jiheweihuan.github.io/posts/hello-world",
-            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check [documentation](<a href=\"https://hex\">https://hex</a></p>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/hello-world\" target=\"_blank\">https://jiheweihuan.github.io/posts/hello-world</a> 阅读全文。</p>",
-            "url": "https://jiheweihuan.github.io/posts/hello-world",
-            "title": "Hello World",
-            "date_modified": "2025-08-26T08:12:28.904Z",
-            "date_published": "1985-10-26T08:15:00.000Z",
             "author": {
                 "name": "几何为欢",
                 "url": "https://valaxy.site"
