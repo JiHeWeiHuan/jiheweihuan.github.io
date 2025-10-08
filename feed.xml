@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Wed, 08 Oct 2025 11:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 11:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,20 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 几何为欢</copyright>
         <atom:link href="https://jiheweihuan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C++与Python的tuple对比]]></title>
+            <link>https://jiheweihuan.github.io/posts/tuple</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/tuple</guid>
+            <pubDate>Wed, 08 Oct 2025 11:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>1. Python中的Tuple</h2>
+<h3>基本用法</h3>
+<pre><code class="language-python"># 创建tuple
+t1 = (1, 2, 3)
+t2 = tuple([4, 5, 6])
+t3 = 1, 2, 3</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/tuple" target="_blank">https://jiheweihuan.github.io/posts/tuple</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
         <item>
             <title><![CDATA[iterator用法]]></title>
             <link>https://jiheweihuan.github.io/posts/iterator_and_tuple</link>
