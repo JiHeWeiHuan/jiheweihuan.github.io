@@ -23,9 +23,9 @@
             }
         },
         {
-            "id": "https://jiheweihuan.github.io/posts/github push代码",
-            "content_html": "<h2>github push代码</h2>\n<h3>1.新建本地仓库</h3>\n<p>git init</p>\n<h3>2.将所有文件加入暂存区索引</h3>\n<p>git add .</p>\n<h3>3.与远程仓库建立连接</h3>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/github push代码\" target=\"_blank\">https://jiheweihuan.github.io/posts/github push代码</a> 阅读全文。</p>",
-            "url": "https://jiheweihuan.github.io/posts/github push代码",
+            "id": "https://jiheweihuan.github.io/posts/github_push",
+            "content_html": "<h2>github push代码</h2>\n<h3>1.新建本地仓库</h3>\n<p>git init</p>\n<h3>2.将所有文件加入暂存区索引</h3>\n<p>git add .</p>\n<h3>3.与远程仓库建立连接</h3>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/github_push\" target=\"_blank\">https://jiheweihuan.github.io/posts/github_push</a> 阅读全文。</p>",
+            "url": "https://jiheweihuan.github.io/posts/github_push",
             "title": "github push commands",
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",

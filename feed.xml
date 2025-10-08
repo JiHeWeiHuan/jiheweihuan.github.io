@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Wed, 08 Oct 2025 09:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 11:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -27,8 +27,8 @@
         </item>
         <item>
             <title><![CDATA[github push commands]]></title>
-            <link>https://jiheweihuan.github.io/posts/github push代码</link>
-            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/github push代码</guid>
+            <link>https://jiheweihuan.github.io/posts/github_push</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/github_push</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>github push代码</h2>
 <h3>1.新建本地仓库</h3>
@@ -36,7 +36,7 @@
 <h3>2.将所有文件加入暂存区索引</h3>
 <p>git add .</p>
 <h3>3.与远程仓库建立连接</h3>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github push代码" target="_blank">https://jiheweihuan.github.io/posts/github push代码</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github_push" target="_blank">https://jiheweihuan.github.io/posts/github_push</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
