@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiheweihuan.github.io/</id>
     <title>几何为欢的云站</title>
-    <updated>2025-10-08T12:53:19.264Z</updated>
+    <updated>2025-10-09T14:59:17.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>几何为欢</name>
@@ -15,6 +15,24 @@
     <logo>https://jiheweihuan.github.io/avatar.jpg</logo>
     <icon>https://jiheweihuan.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
+    <entry>
+        <title type="html"><![CDATA[py-os-walk]]></title>
+        <id>https://jiheweihuan.github.io/posts/py-os-walk</id>
+        <link href="https://jiheweihuan.github.io/posts/py-os-walk"/>
+        <updated>2025-10-09T22:54:19.000Z</updated>
+        <content type="html"><![CDATA[<p><code>os.walk()</code> 是Python中用于遍历目录树的强大函数，它可以递归地访问指定目录下的所有子目录和文件。</p>
+<h2>基本语法</h2>
+<pre><code class="language-python">import os
+
+for root, di</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/py-os-walk" target="_blank">https://jiheweihuan.github.io/posts/py-os-walk</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-09T14:54:54.268Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++与Python的tuple对比]]></title>
         <id>https://jiheweihuan.github.io/posts/tuple</id>

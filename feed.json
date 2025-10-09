@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://jiheweihuan.github.io/posts/py-os-walk",
+            "content_html": "<p><code>os.walk()</code> 是Python中用于遍历目录树的强大函数，它可以递归地访问指定目录下的所有子目录和文件。</p>\n<h2>基本语法</h2>\n<pre><code class=\"language-python\">import os\n\nfor root, di</code></pre>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/py-os-walk\" target=\"_blank\">https://jiheweihuan.github.io/posts/py-os-walk</a> 阅读全文。</p>",
+            "url": "https://jiheweihuan.github.io/posts/py-os-walk",
+            "title": "py-os-walk",
+            "date_modified": "2025-10-09T22:54:19.000Z",
+            "date_published": "2025-10-09T14:54:54.268Z",
+            "author": {
+                "name": "几何为欢",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://jiheweihuan.github.io/posts/tuple",
             "content_html": "<h2>1. Python中的Tuple</h2>\n<h3>基本用法</h3>\n<pre><code class=\"language-python\"># 创建tuple\nt1 = (1, 2, 3)\nt2 = tuple([4, 5, 6])\nt3 = 1, 2, 3</code></pre>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/tuple\" target=\"_blank\">https://jiheweihuan.github.io/posts/tuple</a> 阅读全文。</p>",
             "url": "https://jiheweihuan.github.io/posts/tuple",
