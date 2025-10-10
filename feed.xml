@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Thu, 09 Oct 2025 15:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 11:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,24 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 几何为欢</copyright>
         <atom:link href="https://jiheweihuan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sort-template]]></title>
+            <link>https://jiheweihuan.github.io/posts/sort-template</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/sort-template</guid>
+            <pubDate>Fri, 10 Oct 2025 11:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>给我这些排序的特点、原理、cpp可实现代码，方便我学习以及亲自手敲代码</h2>
+<ul>
+<li>选择排序（多次“打擂台”）</li>
+<li>冒泡排序</li>
+<li>插入排序</li>
+<li>计数排序</li>
+<li>基数排序</li>
+<li>快速排序</li>
+<li>归并排序（分治</li>
+</ul>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/sort-template" target="_blank">https://jiheweihuan.github.io/posts/sort-template</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
         <item>
             <title><![CDATA[py-os-walk]]></title>
             <link>https://jiheweihuan.github.io/posts/py-os-walk</link>

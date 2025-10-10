@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiheweihuan.github.io/</id>
     <title>几何为欢的云站</title>
-    <updated>2025-10-09T15:12:51.454Z</updated>
+    <updated>2025-10-10T11:45:08.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>几何为欢</name>
@@ -15,6 +15,29 @@
     <logo>https://jiheweihuan.github.io/avatar.jpg</logo>
     <icon>https://jiheweihuan.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
+    <entry>
+        <title type="html"><![CDATA[sort-template]]></title>
+        <id>https://jiheweihuan.github.io/posts/sort-template</id>
+        <link href="https://jiheweihuan.github.io/posts/sort-template"/>
+        <updated>2025-10-10T19:31:08.000Z</updated>
+        <content type="html"><![CDATA[<h2>给我这些排序的特点、原理、cpp可实现代码，方便我学习以及亲自手敲代码</h2>
+<ul>
+<li>选择排序（多次“打擂台”）</li>
+<li>冒泡排序</li>
+<li>插入排序</li>
+<li>计数排序</li>
+<li>基数排序</li>
+<li>快速排序</li>
+<li>归并排序（分治</li>
+</ul>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/sort-template" target="_blank">https://jiheweihuan.github.io/posts/sort-template</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-10T11:35:34.631Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[py-os-walk]]></title>
         <id>https://jiheweihuan.github.io/posts/py-os-walk</id>

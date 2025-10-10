@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://jiheweihuan.github.io/posts/sort-template",
+            "content_html": "<h2>给我这些排序的特点、原理、cpp可实现代码，方便我学习以及亲自手敲代码</h2>\n<ul>\n<li>选择排序（多次“打擂台”）</li>\n<li>冒泡排序</li>\n<li>插入排序</li>\n<li>计数排序</li>\n<li>基数排序</li>\n<li>快速排序</li>\n<li>归并排序（分治</li>\n</ul>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/sort-template\" target=\"_blank\">https://jiheweihuan.github.io/posts/sort-template</a> 阅读全文。</p>",
+            "url": "https://jiheweihuan.github.io/posts/sort-template",
+            "title": "sort-template",
+            "date_modified": "2025-10-10T19:31:08.000Z",
+            "date_published": "2025-10-10T11:35:34.631Z",
+            "author": {
+                "name": "几何为欢",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://jiheweihuan.github.io/posts/py-os-walk",
             "content_html": "<p><code>os.walk()</code> 是Python中用于遍历目录树的强大函数，它可以递归地访问指定目录下的所有子目录和文件。</p>\n<h2>基本语法</h2>\n<pre><code class=\"language-python\">import os\n\nfor root, di</code></pre>\n<br/><p>访问 <a href=\"https://jiheweihuan.github.io/posts/py-os-walk\" target=\"_blank\">https://jiheweihuan.github.io/posts/py-os-walk</a> 阅读全文。</p>",
             "url": "https://jiheweihuan.github.io/posts/py-os-walk",
