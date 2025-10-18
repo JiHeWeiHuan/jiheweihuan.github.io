@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Fri, 10 Oct 2025 11:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 09:46:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,17 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 几何为欢</copyright>
         <atom:link href="https://jiheweihuan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C++STL之<numeric>库用法]]></title>
+            <link>https://jiheweihuan.github.io/posts/numeric</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/numeric</guid>
+            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><code>&lt;numeric&gt;</code> 头文件提供数值运算相关函数，以下是核心函数及用法：</p>
+<h2>1. accumulate - 累加/累积</h2>
+<pre><code class="language-cpp">vector&lt;int&gt; v = {1,2,3,</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/numeric" target="_blank">https://jiheweihuan.github.io/posts/numeric</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
         <item>
             <title><![CDATA[sort-template]]></title>
             <link>https://jiheweihuan.github.io/posts/sort-template</link>

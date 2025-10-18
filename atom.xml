@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiheweihuan.github.io/</id>
     <title>几何为欢的云站</title>
-    <updated>2025-10-10T11:45:08.752Z</updated>
+    <updated>2025-10-18T09:46:34.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>几何为欢</name>
@@ -15,6 +15,22 @@
     <logo>https://jiheweihuan.github.io/avatar.jpg</logo>
     <icon>https://jiheweihuan.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
+    <entry>
+        <title type="html"><![CDATA[C++STL之<numeric>库用法]]></title>
+        <id>https://jiheweihuan.github.io/posts/numeric</id>
+        <link href="https://jiheweihuan.github.io/posts/numeric"/>
+        <updated>2025-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><code>&lt;numeric&gt;</code> 头文件提供数值运算相关函数，以下是核心函数及用法：</p>
+<h2>1. accumulate - 累加/累积</h2>
+<pre><code class="language-cpp">vector&lt;int&gt; v = {1,2,3,</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/numeric" target="_blank">https://jiheweihuan.github.io/posts/numeric</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sort-template]]></title>
         <id>https://jiheweihuan.github.io/posts/sort-template</id>
