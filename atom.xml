@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiheweihuan.github.io/</id>
     <title>几何为欢的云站</title>
-    <updated>2025-10-18T10:47:54.188Z</updated>
+    <updated>2026-03-05T18:21:27.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>几何为欢</name>
@@ -14,7 +14,38 @@
     <subtitle>GO BEYOND HORIZONS.</subtitle>
     <logo>https://jiheweihuan.github.io/avatar.jpg</logo>
     <icon>https://jiheweihuan.github.io/favicon.svg</icon>
-    <rights>CC BY-NC-SA 4.0 2025 © 几何为欢</rights>
+    <rights>CC BY-NC-SA 4.0 2026 © 几何为欢</rights>
+    <entry>
+        <title type="html"><![CDATA[京都旅行（高考后）]]></title>
+        <id>https://jiheweihuan.github.io/posts/jptrip</id>
+        <link href="https://jiheweihuan.github.io/posts/jptrip"/>
+        <updated>2026-03-06T00:55:32.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>本次旅行是笔者在2025年6月实行，鉴于当下国际局势及人身安全，请读者朋友避免该旅行目的地……</p>
+<p>其实没有想象中有意思，只有一点点环境差异，氛围区别，笔者准备等到大学结束再去看过的动漫地点</p>
+</blockquote>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/jptrip" target="_blank">https://jiheweihuan.github.io/posts/jptrip</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-03-05T18:08:33.620Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[python和java中hashset和hashmap的区别]]></title>
+        <id>https://jiheweihuan.github.io/posts/hashset_hashmap_diff</id>
+        <link href="https://jiheweihuan.github.io/posts/hashset_hashmap_diff"/>
+        <updated>2025-10-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在 Java、Python 等语言中，<code>HashMap</code>（哈希映射）和 <code>HashSet</code>（哈希集合）都是基于哈希表实现的数据结构，但它们的<strong>核心功能</strong>和<strong>语法特性</strong>有本质区别，主要体现在</p>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hashset_hashmap_diff" target="_blank">https://jiheweihuan.github.io/posts/hashset_hashmap_diff</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>几何为欢</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++STL之<numeric>库用法]]></title>
         <id>https://jiheweihuan.github.io/posts/numeric</id>
