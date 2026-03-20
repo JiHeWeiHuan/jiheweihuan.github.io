@@ -4,7 +4,7 @@
         <title>几何为欢的云站</title>
         <link>https://jiheweihuan.github.io/</link>
         <description>GO BEYOND HORIZONS.</description>
-        <lastBuildDate>Thu, 05 Mar 2026 18:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 12:57:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,10 +15,79 @@
         <copyright>CC BY-NC-SA 4.0 2026 © 几何为欢</copyright>
         <atom:link href="https://jiheweihuan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Mermaid 图表测试]]></title>
+            <link>https://jiheweihuan.github.io/posts/mermaid-test</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/mermaid-test</guid>
+            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Mermaid 图表测试</h1>
+<p>本文测试 Valaxy 博客中的 Mermaid 图表渲染功能。</p>
+<h2>流程图示例</h2>
+<pre><code class="language-mermaid">graph TD
+    A[开始] --&gt; B{是否登</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/mermaid-test" target="_blank">https://jiheweihuan.github.io/posts/mermaid-test</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[attention的一些关系图]]></title>
+            <link>https://jiheweihuan.github.io/posts/attentionpic</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/attentionpic</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<pre><code class="language-mermaid">graph TD
+    A[字符串: 'hello'] --&gt;|encode| B[字节: b'hello']
+    B --&gt;|decode| A
+    
+    C[整</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/attentionpic" target="_blank">https://jiheweihuan.github.io/posts/attentionpic</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[rust使用速查]]></title>
+            <link>https://jiheweihuan.github.io/posts/rust-hello</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/rust-hello</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>哈哈，恭喜！🎉 Rust 确实比 C++ 友好多了，特别是包管理和工具链方面。让我给你一些 Rust 的实用技巧，让你更爽：</p>
+<h2>1. Rust 常用命令速查</h2>
+<pre><code class="language-powershell"># </code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/rust-hello" target="_blank">https://jiheweihuan.github.io/posts/rust-hello</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[C++与Python的tuple对比]]></title>
+            <link>https://jiheweihuan.github.io/posts/tuple</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/tuple</guid>
+            <pubDate>Sun, 08 Mar 2026 11:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>1. Python中的Tuple</h2>
+<h3>基本用法</h3>
+<pre><code class="language-python"># 创建tuple
+t1 = (1, 2, 3)
+t2 = tuple([4, 5, 6])
+t3 = 1, 2, 3</code></pre>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/tuple" target="_blank">https://jiheweihuan.github.io/posts/tuple</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[sort-template]]></title>
+            <link>https://jiheweihuan.github.io/posts/sort-template</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/sort-template</guid>
+            <pubDate>Sun, 08 Mar 2026 11:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>给我这些排序的特点、原理、cpp可实现代码，方便我学习以及亲自手敲代码</h2>
+<ul>
+<li>选择排序（多次“打擂台”）</li>
+<li>冒泡排序</li>
+<li>插入排序</li>
+<li>计数排序</li>
+<li>基数排序</li>
+<li>快速排序</li>
+<li>归并排序（分治</li>
+</ul>
+<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/sort-template" target="_blank">https://jiheweihuan.github.io/posts/sort-template</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
             <title><![CDATA[京都旅行（高考后）]]></title>
             <link>https://jiheweihuan.github.io/posts/jptrip</link>
             <guid isPermaLink="false">https://jiheweihuan.github.io/posts/jptrip</guid>
-            <pubDate>Thu, 05 Mar 2026 18:08:33 GMT</pubDate>
+            <pubDate>Sun, 08 Mar 2026 11:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<blockquote>
 <p>本次旅行是笔者在2025年6月实行，鉴于当下国际局势及人身安全，请读者朋友避免该旅行目的地……</p>
 <p>其实没有想象中有意思，只有一点点环境差异，氛围区别，笔者准备等到大学结束再去看过的动漫地点</p>
@@ -31,7 +100,7 @@
             <link>https://jiheweihuan.github.io/posts/hashset_hashmap_diff</link>
             <guid isPermaLink="false">https://jiheweihuan.github.io/posts/hashset_hashmap_diff</guid>
             <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>在 Java、Python 等语言中，<code>HashMap</code>（哈希映射）和 <code>HashSet</code>（哈希集合）都是基于哈希表实现的数据结构，但它们的<strong>核心功能</strong>和<strong>语法特性</strong>有本质区别，主要体现在</p>
+            <content:encoded><![CDATA[<p>在 Java、Python 等语言中，<code>HashMap</code>（哈希映射）和 <code>HashSet</code>（哈希集合）都是基于哈希表实现的数据结构，但它们的<strong>核心功能</strong>和<strong>语法特性</strong>有本质区别，主要体现在存</p>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/hashset_hashmap_diff" target="_blank">https://jiheweihuan.github.io/posts/hashset_hashmap_diff</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
@@ -42,26 +111,8 @@
             <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<p><code>&lt;numeric&gt;</code> 头文件提供数值运算相关函数，以下是核心函数及用法：</p>
 <h2>1. accumulate - 累加/累积</h2>
-<pre><code class="language-cpp">vector&lt;int&gt; v = {1,2,3,</code></pre>
+<pre><code class="language-cpp">vector&lt;int&gt; v = {1,2,3,4,5};</code></pre>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/numeric" target="_blank">https://jiheweihuan.github.io/posts/numeric</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (几何为欢)</author>
-        </item>
-        <item>
-            <title><![CDATA[sort-template]]></title>
-            <link>https://jiheweihuan.github.io/posts/sort-template</link>
-            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/sort-template</guid>
-            <pubDate>Fri, 10 Oct 2025 11:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>给我这些排序的特点、原理、cpp可实现代码，方便我学习以及亲自手敲代码</h2>
-<ul>
-<li>选择排序（多次“打擂台”）</li>
-<li>冒泡排序</li>
-<li>插入排序</li>
-<li>计数排序</li>
-<li>基数排序</li>
-<li>快速排序</li>
-<li>归并排序（分治</li>
-</ul>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/sort-template" target="_blank">https://jiheweihuan.github.io/posts/sort-template</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
@@ -78,27 +129,13 @@ for root, di</code></pre>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
-            <title><![CDATA[C++与Python的tuple对比]]></title>
-            <link>https://jiheweihuan.github.io/posts/tuple</link>
-            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/tuple</guid>
-            <pubDate>Wed, 08 Oct 2025 11:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>1. Python中的Tuple</h2>
-<h3>基本用法</h3>
-<pre><code class="language-python"># 创建tuple
-t1 = (1, 2, 3)
-t2 = tuple([4, 5, 6])
-t3 = 1, 2, 3</code></pre>
-<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/tuple" target="_blank">https://jiheweihuan.github.io/posts/tuple</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (几何为欢)</author>
-        </item>
-        <item>
             <title><![CDATA[iterator用法]]></title>
             <link>https://jiheweihuan.github.io/posts/iterator_and_tuple</link>
             <guid isPermaLink="false">https://jiheweihuan.github.io/posts/iterator_and_tuple</guid>
             <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h3>什么是 Iterator（迭代器）？</h3>
 <p><strong>核心思想：</strong><br>
-迭代器是一种设计模式，它提供了一种方法，**能够顺序访问一个聚合对象（如列表、容器）中的各个元素，而又不需要暴露该对象</p>
+迭代器是一种设计模式，它提供了一种方法，**能够顺序访问一个聚合对象（如列表、容器）中的各个元素，而又不需要暴露该对象的内部表示</p>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/iterator_and_tuple" target="_blank">https://jiheweihuan.github.io/posts/iterator_and_tuple</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
@@ -113,6 +150,7 @@ t3 = 1, 2, 3</code></pre>
 <h3>2.将所有文件加入暂存区索引</h3>
 <p>git add .</p>
 <h3>3.与远程仓库建立连接</h3>
+<p>git remot</p>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/github_push" target="_blank">https://jiheweihuan.github.io/posts/github_push</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
@@ -130,6 +168,22 @@ t3 = 1, 2, 3</code></pre>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
         <item>
+            <title><![CDATA[katextest]]></title>
+            <link>https://jiheweihuan.github.io/posts/katextest</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/katextest</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/katextest" target="_blank">https://jiheweihuan.github.io/posts/katextest</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
+            <title><![CDATA[template]]></title>
+            <link>https://jiheweihuan.github.io/posts/template</link>
+            <guid isPermaLink="false">https://jiheweihuan.github.io/posts/template</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://jiheweihuan.github.io/posts/template" target="_blank">https://jiheweihuan.github.io/posts/template</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (几何为欢)</author>
+        </item>
+        <item>
             <title><![CDATA[valaxy常用指令]]></title>
             <link>https://jiheweihuan.github.io/posts/valaxy commom commands</link>
             <guid isPermaLink="false">https://jiheweihuan.github.io/posts/valaxy commom commands</guid>
@@ -138,7 +192,7 @@ t3 = 1, 2, 3</code></pre>
 <p>2.构建：pnpm run build</p>
 <p>3.github上传：</p>
 <p>git commit -m &quot;提交说明&quot;</p>
-<p>git push -u origin</p>
+<p>git push -u origin 远程分支名称（最近</p>
 <br/><p>访问 <a href="https://jiheweihuan.github.io/posts/valaxy commom commands" target="_blank">https://jiheweihuan.github.io/posts/valaxy commom commands</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (几何为欢)</author>
         </item>
