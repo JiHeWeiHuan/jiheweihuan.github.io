@@ -1,20 +1,8 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "jhwhblog",
   "compatibility_date": "2026-07-21",
-  "compatibility_flags": [
-    "nodejs_compat"
-  ],
-  "observability": {
-    "enabled": true
-  },
   "assets": {
-    "directory": ".",
-    "exclude": [
-      ".git/**",
-      "wrangler.jsonc",
-      ".gitignore"
-    ]
+    "directory": "."
   },
   "send_metrics": false
 }
